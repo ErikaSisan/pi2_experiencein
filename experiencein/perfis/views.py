@@ -1,4 +1,3 @@
-# experiencein/perfis/views.py 
 from django.shortcuts import render, redirect
 from perfis.models import Perfil, Convite
 
@@ -25,6 +24,4 @@ def aceitar(request, convite_id):
 	return redirect('index')
 
 def get_perfil_logado(request):
-    return Perfil.objects.get(id=3) 
-
-
+	return Perfil.objects.get(id=1)
