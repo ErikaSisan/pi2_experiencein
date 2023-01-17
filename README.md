@@ -7,17 +7,17 @@ Projeto didático desenvolvido na matéria de Programação para Internet 2 no c
 
 - :seedling: Projeto desenvolvido em sala de aula por ErikaSisan<br/>
 - :school: Professor: Fabio Henrique <br/>
-- :boom: Linguagem: Python 3.7 / Django 2.2<br/>
+- :boom: Linguagem:<br/>
+Python 3.7 <br/>
+Django 2.2<br/>
+HTML5<br/>
+CSS3<br/>
+Pip3<br/>
+Visual Studio Code<br/>
+PythonAnywhere<br/>
 
-
-
-
-
-- :sparkles: Comandos para o projeto: <br/>
-  git clone https://github.com/ErikaSisan/pi2_experiencein.git <br/>
-  cd experiencein/<br/>
-  ls<br/>
-  python manage.py runserver
-
-
+- :sparkles: git clone https://github.com/ErikaSisan/pi2_experiencein.git <br/>
+  
+#Link para a aplicação:<br/>
+http://erika00011.pythonanywhere.com/login/?next=/
 
