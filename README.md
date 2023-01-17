@@ -18,6 +18,6 @@ PythonAnywhere<br/>
 
 - :sparkles: git clone https://github.com/ErikaSisan/pi2_experiencein.git <br/>
   
-#Link para a aplicação:<br/>
+**Link para a aplicação:**
 http://erika00011.pythonanywhere.com/login/?next=/
 
